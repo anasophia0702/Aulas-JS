@@ -129,10 +129,10 @@
 let valor = 350;
 let desconto = 20 ;
 
-if (valor >=500) {
-    console.log(valor - 20)
+if (valor >= 500) {
+    console.log(valor - 20);
 } else {
-    console.log("COMPRA SEM DESCONTO")
+    console.log("COMPRA SEM DESCONTO");
 }
 
 
